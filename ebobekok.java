@@ -8,7 +8,7 @@ public class ebobekok {
         int n1,n2;
         int ebob,ekok,kalan,bolunen,bolen;
         Scanner sc = new Scanner(System.in);
-        System.out.println("İki sayı giriniz :");
+        System.out.println("İki sayı giriniz : (Sayılar arasında boşluk bırakınız.)");
         n1=sc.nextInt();
         n2=sc.nextInt();
         if (n1>n2)
